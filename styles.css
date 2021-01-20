@@ -58,25 +58,30 @@ body {
 
 
 .profile-image-wrapper img{
-    padding: 10px;
-    width: 30%;
-  
-    
+    padding-top: 3%;
+    width: 100%;
+    padding-bottom: 1%;
+   
 }
 
 .profile-content-wrapper{
+    padding-top: 0%;
     text-align: center;
     }
 
 .profile-content-contact{
-    padding: 30px;
+    padding-top: 3%;
     text-align:end center;
-    padding: 50px;
-}
+    }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
+  }
+
+  .container-image {
+      max-width: 400px;
+      margin: 0 auto;
   }
