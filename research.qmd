@@ -1,0 +1,86 @@
+```{=html}
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,height=device-height,  initial-scale=1">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+<title> Leonel Borja Plaza </title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">   
+        <div class="nav-wrapper">
+             <div class="right-side">
+                <div class="name">
+                   Leonel Borja Plaza 
+                </div>
+            </div>
+            
+            <div class="left-side">
+                <div class="nav-link-wrapper">
+                    <a href="index.html">Home </a>
+                </div>
+             
+               <div class="nav-link-wrapper">
+                <a href="research.html">Research</a>
+               </div>
+              
+               <div class="nav-link-wrapper">
+                <a href="about.html">CV </a>
+               </div>
+
+            </div>
+        </div>
+            
+    </div>
+    </div>
+```
+---
+title: ""
+format: html
+editor: visual
+css: styles.css
+---
+
+```{r, echo=FALSE, results='asis'}
+cat('
+<style>
+body {
+  margin: 100px;
+}
+</style>
+')
+```
+# Job Marker Paper
+
+## Are Teen Childbearing Effects Heterogeneous? Evidence from Ecuador
+
+**Abstract** 
+
+Is teen childbearing a cause of economic disadvantage that is transmitted from one generation to the next? Extensive research has produced mixed evidence, making it difficult to draw policy recommendations. An explanation for the seemingly conflicting evidence is that teen childbearing affects each woman differently, given characteristics that are unobservable to researchers. To test for this unobserved heterogeneity, I estimate marginal treatment effects on schooling and labor outcomes for mothers; and mortality, schooling, and nutritional outcomes for firstborn children. I use deviations from a prediction of the age at menarche as a source of plausible exogenous variation in a large Ecuadorian sample to find that maternal treatment effects vary across values of unobservables that make women more or less likely to become teen mothers. These unobservables can be characterized as an unobserved opportunity cost parameter. Women with lower unobserved opportunity costs do not have their schooling attainment negatively impacted if they become teen mothers. Women who face higher opportunity costs of teen childbearing can be severely affected, losing as much as two years of attained schooling and being 30% less likely to finish high school. Similar patterns emerge when analyzing women's labor force participation. I do not find evidence that teen mothers' firstborn children have higher mortality rates, less schooling relative to their age, or lower height-for-age Z scores, nor do I find evidence to suggest that treatment effect heterogeneity is a concern for children's outcomes. These findings imply that there is potential to improve women's economic outcomes by reducing teen childbearing rates when the individual cost of opportunity is sufficiently high. However, they do not support the belief that teen childbearing is a source of intergenerational transmission of low socioeconomic status.
+
+In a nutshell the **main result**:
+
+<div style="text-align:center">
+   <img src="images/mtePlot_highs_web.jpg" alt="Alt text"/>
+</div>
+
+# Working Papers 
+
+## Early Life Nutritional Improvements and Intergenerational Impacts on Education: Evidence from the INCAP longitudinal Study
+with Jere Behrman, John Maluccio, Reynaldo Martorell, Manuel Ramírez-Zea, Aryeh Stein and John Hoddinott
+
+**Abstract** 
+
+Whether any policy-induced benefits on human capital endure over the long term in resource-constrained environments is a concern because human capital may require sustained investment not to fade away. However, there is evidence that improvements in early-life nutrition increase schooling attainment and income in adulthood. Can these impacts also benefit the next generation? In this paper, we study the intergenerational effects on children’s education of having a parent receive protein supplementation in early childhood in a low-income, rural setting. Using unique data that links two generations in a difference-in-difference framework, we show that children of early-treated male but not female participants of the INCAP longitudinal study —a nutritional intervention that occurred in Eastern Guatemala in the 1970s— have higher enrollment rates and schooling attainment than children of late- or non-treated fathers. We also find positive effects on boys’ non-verbal cognitive ability, but these estimates are imprecise. We find no impact on vocabulary tests. 
+
+
+
+# Work in Progress 
+
+**Abstract** 
+
+## Talent (Mis)Allocation and the Cost of Inequality of Opportunity
+
+Malnutrition and access to pre-primary education rates worldwide, especially in LMIC, suggest that the extent of unequal opportunity is worrisome. Many people do not have optimal investments at critical periods in their early life, irreversibly limiting their ability to realize their full human capital potential by no fault of their own. As long as the occupation type and human capital are complements, the optimal allocation of talent occurs when the individuals with the highest human capital match with the most productive jobs. Thus, barriers to early-life human capital formation represent a source of inequality of opportunity that produces an inefficient allocation of talent across occupations. Through counterfactual analysis, this paper quantifies the aggregate implications that stem from talent reallocation across occupations when barriers to human capital formation in early life are reduced. 
+
