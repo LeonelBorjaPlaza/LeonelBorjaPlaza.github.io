@@ -53,7 +53,7 @@ body {
 ```
 # Job Marker Paper
 
-## [Essentially Heterogeneous: The Consequences of Teen Childbearing on Ecuadorian Mothers and Childre](./images/TeenPaper.pdf)
+## [Essentially Heterogeneous: The Consequences of Teen Childbearing on Ecuadorian Mothers and Children](./images/TeenPaper.pdf)
 
 **Abstract** 
 
